@@ -1,0 +1,13 @@
+title: "Label bench PSU voltages"
+owner: "Instructor Team"
+contact: "instructor@example.org"
+artifact_context: "Electronics bench in Room 201"
+scope_of_repair: ["hardware","safety"]
+summary: "Add clear labels and strain relief to prevent accidental over-voltage."
+constraints: "30 minutes; no soldering on live equipment"
+license_ownership: "Institution-owned"
+consent_to_modify: "yes"
+backup_location: "N/A"
+risk_level: "med"
+acceptance_criteria: "Labels applied; cables strain-relieved; photo uploaded; next service date set"
+links: []

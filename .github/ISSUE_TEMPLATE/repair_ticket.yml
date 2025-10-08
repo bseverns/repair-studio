@@ -1,0 +1,61 @@
+name: Repair Ticket
+description: Intake for a repair (doc/code/hardware/process/safety/ux)
+title: "[repair] <short summary>"
+labels: ["repair"]
+body:
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      description: Who is responsible for this artifact?
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope of repair
+      options:
+        - doc
+        - code
+        - hardware
+        - process
+        - safety
+        - ux
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What are we repairing and why now?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: How do we know it's done?
+  - type: input
+    id: links
+    attributes:
+      label: Links
+      description: Repo URL, manuals, issue references
+  - type: dropdown
+    id: risk
+    attributes:
+      label: Risk level
+      options:
+        - low
+        - med
+        - high
+    validations:
+      required: true
+  - type: dropdown
+    id: consent
+    attributes:
+      label: Consent to modify
+      options:
+        - yes
+        - no
+    validations:
+      required: true

@@ -1,0 +1,19 @@
+name: Documentation Repair
+description: Improve docs, quickstarts, changelogs, or signage
+title: "[docs] <short summary>"
+labels: ["docs","repair"]
+body:
+  - type: textarea
+    id: target
+    attributes:
+      label: Target
+      description: Which doc(s) need repair?
+  - type: textarea
+    id: changes
+    attributes:
+      label: Proposed changes
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Before/after screenshots or links

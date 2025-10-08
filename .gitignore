@@ -1,0 +1,13 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Build output
+/site/
+/dist/
+/venv/
+
+# Manuals and large files (encourage LFS or links)
+manuals/**/*.zip
+manuals/**/*.7z
+manuals/**/*.iso
