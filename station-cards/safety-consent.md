@@ -8,11 +8,13 @@ done_definition:
 ---
 
 ## Steps
-1) Verify opt‑in capture; test **Delete Now** path.  
-2) Post hotline/contact and policy signage.  
+
+1) Verify opt‑in capture; test **Delete Now** path.
+2) Post hotline/contact and policy signage.
 3) Run a 2‑minute safety drill (locate PPE, first-aid, spill kit).
 
 ## Evidence
+
 - Signage photos
 - Drill notes
 - Policy links

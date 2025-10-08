@@ -8,12 +8,14 @@ done_definition:
 ---
 
 ## Steps
-1) Lint/format; remove dead code; tighten `.gitignore`.  
-2) Add minimal tests for a hot path or script a sanity check.  
-3) Enable CI to lint on PR; add a status badge.  
+
+1) Lint/format; remove dead code; tighten `.gitignore`.
+2) Add minimal tests for a hot path or script a sanity check.
+3) Enable CI to lint on PR; add a status badge.
 4) Release a patch with notes.
 
 ## Evidence
+
 - CI run link
 - Tests output
 - Changelog entry

@@ -8,11 +8,13 @@ done_definition:
 ---
 
 ## Steps
-1. 
-2. 
-3. 
+
+1.
+2.
+3.
 
 ## Evidence to capture
+
 - before/after photo
 - measurements/logs
 - updated docs link
