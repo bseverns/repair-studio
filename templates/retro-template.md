@@ -4,5 +4,5 @@
 
 **What is one change to the *system* we will ship by next session?**
 
-**Owner:**  
-**Due date:** 
+**Owner:**
+**Due date:**

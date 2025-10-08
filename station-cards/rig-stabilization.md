@@ -8,12 +8,14 @@ done_definition:
 ---
 
 ## Steps
-1) Inspect fasteners, strain relief, heat, cable paths.  
-2) Verify fuses, grounds, ESD; label voltages.  
-3) Add relief: threadlocker, grommets, ferrules, cable ties.  
+
+1) Inspect fasteners, strain relief, heat, cable paths.
+2) Verify fuses, grounds, ESD; label voltages.
+3) Add relief: threadlocker, grommets, ferrules, cable ties.
 4) Baseline test; log readings; set next service date.
 
 ## Evidence
+
 - Labeled photos
 - Baseline readings log
 - Service date entry

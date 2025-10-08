@@ -8,10 +8,12 @@ done_definition:
 ---
 
 ## Steps
-1) Run a 5‑min task with a new user; observe silently.  
-2) Fix 3 papercuts (labels, contrast, tab order, hints).  
+
+1) Run a 5‑min task with a new user; observe silently.
+2) Fix 3 papercuts (labels, contrast, tab order, hints).
 3) Add ALT text/captions; ensure keyboard path exists.
 
 ## Evidence
+
 - Before/after task timings
 - Screenshots with annotations
