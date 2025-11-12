@@ -9,10 +9,14 @@ done_definition:
 
 ## Steps
 
-1) Inventory each PPE cache (respirators, gloves, aprons, goggles, ESD straps) against the risk-gate matrix; list missing sizes or expired filters.
-2) Run two rapid fit checks with the facilitators you interviewed: respirator seal and ESD strap continuity; capture results and retraining needs.
-3) Restock or swap gear, label bins with size ranges + expiry dates, and update the consumables order queue.
-4) Post the refreshed PPE map next to the risk gate signage; shout out the changes during closing circle.
+1. Inventory each PPE cache (respirators, gloves, aprons, goggles, ESD straps)
+   against the risk-gate matrix; list missing sizes or expired filters.
+2. Run two rapid fit checks with the facilitators you interviewed: respirator
+   seal and ESD strap continuity; capture results and retraining needs.
+3. Restock or swap gear, label bins with size ranges + expiry dates, and update
+   the consumables order queue.
+4. Post the refreshed PPE map next to the risk gate signage; shout out the
+   changes during closing circle.
 
 ## Evidence
 

@@ -9,10 +9,14 @@ done_definition:
 
 ## Steps
 
-1) Walk the space with the facilitators you just interviewed; flag every tool that lacks a visible e-stop, disconnect, or breaker label.
-2) Trip-test one green/yellow gate per zone: announce, cut power, time the restart, and log any sticky resets.
-3) Inspect the lockout/tagout kit: confirm spare tags, documented procedure, and post the refreshed breaker map.
-4) Close with a 60-second playback: who to call, where the PPE lives, how to escalate red-gate work.
+1. Walk the space with the facilitators you just interviewed; flag every tool
+   that lacks a visible e-stop, disconnect, or breaker label.
+2. Trip-test one green/yellow gate per zone: announce, cut power, time the
+   restart, and log any sticky resets.
+3. Inspect the lockout/tagout kit: confirm spare tags, documented procedure,
+   and post the refreshed breaker map.
+4. Close with a 60-second playback: who to call, where the PPE lives, how to
+   escalate red-gate work.
 
 ## Evidence
 
