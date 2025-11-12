@@ -34,11 +34,13 @@ present
 
 ## Unified escalation flow (hosts brief every shift)
 
-1. Stabilize the scene. If there's imminent danger, call local emergency services first.
+1. Stabilize the scene. If there's imminent danger, call local emergency
+   services first.
 2. Notify the on-call crew:
    - Safety Lead: Mara Ibarra — Signal/SMS +1-555-0139
    - Consent/Data Steward: Devon Ortiz — Signal/SMS +1-555-0140
-   - Maintainer pod email: safety@repair.studio
+   - Maintainer pod email:
+     [safety@repair.studio](mailto:safety@repair.studio)
    - Slack escalation (hosts): #repair-studio-escalations
 3. Capture what happened (time, people, actions) in the incident log.
 4. Confirm follow-up plan with the reporter before closing the loop.

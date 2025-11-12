@@ -20,8 +20,10 @@ the studio poster near the main workbench.
 
 - Safety Lead on-call: **Mara Ibarra — Signal/SMS +1-555-0139**
 - Consent/Data Steward: **Devon Ortiz — Signal/SMS +1-555-0140**
-- Maintainer pod email: **safety@repair.studio**
+- Maintainer pod email: [safety@repair.studio](mailto:safety@repair.studio)
 - Slack escalation (hosts only): **#repair-studio-escalations**
+- Privacy & Ethics checkpoints: minimal data capture, explicit opt-ins,
+  Delete-Now on demand.
 
 Have the crew practice sending a sample Signal message so the number is unlocked
 on their phones.
