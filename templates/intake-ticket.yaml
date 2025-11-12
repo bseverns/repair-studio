@@ -1,13 +1,33 @@
-title: ""
-owner: ""
-contact: ""
+title: ""  # working name for this repair session
+owner: ""  # artifact steward or requester
+primary_contact: ""  # phone/Matrix/Signal for real-time questions
+lab_host_on_call: ""  # facilitator covering space logistics today
+safety_steward: ""  # person empowered to say stop
 artifact_context: ""  # repo URL, instrument, set piece, machine, etc.
+location: ""  # bench/table or lab zone
 scope_of_repair: ["doc", "code", "hardware", "process", "safety", "ux"]
 summary: ""
 constraints: ""  # time, budget, space, safety
+dependencies_waiting: []  # teams blocked on this work
 license_ownership: ""  # owner and permission status
-consent_to_modify: "yes"  # yes/no
+consent_to_modify: "yes"  # yes/no; only proceed with explicit consent
+consent_notes: ""  # attach signed consent text or verbal summary
+consent_data_scope: ["no_record", "anon_only", "ok_to_publish"]
 backup_location: ""
 risk_level: "low"  # low|med|high
+risk_gate_requested: "green"  # green|yellow|red — see signage
+lab_risk_flags:
+  - ""  # e.g., high_voltage, fragile_vacuum, biohazard
+ppe_required:
+  - ""  # e.g., goggles, gloves, respirator
+energized_state: "deenergized"  # deenergized|locked_out|live_test
+hazardous_materials: ""  # list chemicals, lead, fuels, etc.
+emergency_contacts:
+  lab_manager: ""
+  first_aider: ""
 acceptance_criteria: ""
+post_work_checklist:
+  - "restore guards"
+  - "update docs"
+  - "bag/tag removed parts"
 links: []
