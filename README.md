@@ -85,10 +85,15 @@ Full policies in `/policies`.
 
 ## Close the loop after each session
 
-1. Copy `templates/scribe-notes.md` into `data/session-notes/` and capture the session live.
-2. Facilitate a 10-minute retro with `templates/retro-template.md`, then park the notes in `data/retros/`.
-3. Append the week's numbers to `data/metrics/metrics-dashboard.csv`—tickets closed, MTTR (hours), papercuts burned down, buffer hours, and near-misses.
-4. During the next retro, review the dashboard and choose the next systemic fix to ship.
+1. Copy `templates/scribe-notes.md` into `data/session-notes/` and capture the
+   session live.
+2. Facilitate a 10-minute retro with `templates/retro-template.md`, then park
+   the notes in `data/retros/`.
+3. Append the week's numbers to `data/metrics/metrics-dashboard.csv`—tickets
+   closed, MTTR (hours), papercuts burned down, buffer hours, and
+   near-misses.
+4. During the next retro, review the dashboard and choose the next systemic
+   fix to ship.
 
 ---
 
