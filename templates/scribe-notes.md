@@ -1,16 +1,21 @@
-# Scribe Notes
+# Repair Session Notes Template
 
-**Session:**  
-**Attendees:**  
+**Date:**
+**Host:**
+**Safety Lead:**
+**Scribe:**
 
-## Tickets closed
+## Closed
+- [ ] Ticket / repair summary
 
-- [ ]
+## Demos
+- [ ] What we showed off or documented
 
-## New risks discovered
+## System change queued
+- [ ] Owner — deliverable — due date
 
-- [ ]
+## Risks surfaced
+- [ ] Near-miss, hazard, or blocked dependency
 
-## System improvement queued
-
-- [ ]
+## Metrics update
+- [ ] Added entry to `data/metrics/metrics-dashboard.csv`
