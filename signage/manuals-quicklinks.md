@@ -34,6 +34,7 @@ script and stay gitignored.
 | Bastl pocket rigs | [Bastl set][inst-bastl] | `signage/quicklinks/bastl-kastl-family.png` | On the travel pouch. |
 | Drumkid | [Drumkid][inst-drumkid] | `signage/quicklinks/drumkid.png` | Velcro to the pedalboard. |
 | Field Kit FX | [Field Kit FX][inst-field] | `signage/quicklinks/koma-field-kit-fx.png` | On the rack ear. |
+| Freaq FM | [Freaq FM][inst-freaq] | `signage/quicklinks/wirehead-freaq-fm.png` | Clip to the synth stand. |
 | Electribe 2S | [Electribe 2S][inst-e2s] | `signage/quicklinks/korg-electribe-2s.png` | Inside the lid cover. |
 | SQ-64 | [SQ-64][inst-sq] | `signage/quicklinks/korg-sq64.png` | Next to the sequencer. |
 | Volca Modular | [Volca Modular][inst-volca] | `signage/quicklinks/korg-volca-modular.png` | In the travel case. |
@@ -60,6 +61,7 @@ script and stay gitignored.
 [inst-bastl]: https://fieldkit.local/manuals/instruments/bastl-kastl-family.html
 [inst-drumkid]: https://fieldkit.local/manuals/instruments/drumkid.html
 [inst-field]: https://fieldkit.local/manuals/instruments/koma-field-kit-fx.html
+[inst-freaq]: https://fieldkit.local/manuals/instruments/wirehead-freaq-fm.html
 [inst-e2s]: https://fieldkit.local/manuals/instruments/korg-electribe-2s.html
 [inst-sq]: https://fieldkit.local/manuals/instruments/korg-sq64.html
 [inst-volca]: https://fieldkit.local/manuals/instruments/korg-volca-modular.html

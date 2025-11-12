@@ -20,6 +20,7 @@
 - [instruments/korg-sq64.md](instruments/korg-sq64.md)
 - [instruments/korg-volca-modular.md](instruments/korg-volca-modular.md)
 - [instruments/tascam-404-portastudio.md](instruments/tascam-404-portastudio.md)
+- [instruments/wirehead-freaq-fm.md](instruments/wirehead-freaq-fm.md)
 - [instruments/yamaha-qy10.md](instruments/yamaha-qy10.md)
 
 ## software

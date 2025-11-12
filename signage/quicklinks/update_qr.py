@@ -28,6 +28,7 @@ LINKS = {
     "bastl-kastl-family": f"{BASE}/instruments/bastl-kastl-family.html",
     "drumkid": f"{BASE}/instruments/drumkid.html",
     "koma-field-kit-fx": f"{BASE}/instruments/koma-field-kit-fx.html",
+    "wirehead-freaq-fm": f"{BASE}/instruments/wirehead-freaq-fm.html",
     "korg-electribe-2s": f"{BASE}/instruments/korg-electribe-2s.html",
     "korg-sq64": f"{BASE}/instruments/korg-sq64.html",
     "korg-volca-modular": f"{BASE}/instruments/korg-volca-modular.html",
