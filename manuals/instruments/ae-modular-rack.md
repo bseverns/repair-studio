@@ -1,0 +1,44 @@
+# AE Modular Rack
+
+Semi-modular nerve center for experiments, generative sets, and feeding the Portastudio dirt. Treat this doc like the living lab notebook for the case.
+
+## Why we keep it
+- Compact 5V ecosystem that patches straight into the Koma Field Kit FX and Kastle boxes without frying anything.
+- Swappable voice architecture: reconfigure in minutes for drones, clocked techno, or control voltage utility duty.
+- Perfect sandbox for testing sequencer ideas from the SQ64 before moving patches to the bigger studio rigs.
+
+## Current module roster
+| Position | Module | Role / Notes |
+| --- | --- | --- |
+| 01 | _(slot name)_ | _(log the actual module and firmware rev)_ |
+| 02 |  |  |
+| 03 |  |  |
+| ... |  |  |
+
+> Update the roster whenever you swap cards. Include calibration offsets or custom firmware links.
+
+## Power + health check
+- **PSU**: Tangible Waves 1000 mA brick. Keep a spare in `assets/power/` and note voltage sag if you daisy-chain.
+- **Boot ritual**:
+  1. Flip the rear master switch while watching the BUS LED. Solid red = good; flicker means reseat the ribbon or check PSU draw.
+  2. Wiggle the patchwire bundle to spot intermittent jacks before a session.
+  3. Leave digital oscillators idling for 5 minutes before precision tuning.
+- **Noise floor**: If the rack hums, lift grounds via the Field Kit FX isolator or power from a battery bank.
+
+## Patch recipes to steal
+- **Clock HQ**: SQ64 Track D trigger → Master module `CLK IN`; patch `CLK OUT` to sequencers or Drumkid sync.
+- **Drone wall**: 2OSC/d → Wasp Filter → Spring Tank (Field Kit FX) → Portastudio ch. 3/4. Add slow LFO from the AE `2VCA` for movement.
+- **Control nerve**: Use `4ATT/MIX` as CV hub to tame Kastle output before re-feeding the rack.
+
+Log discoveries here. Keep it scrappy but readable.
+
+## Maintenance log
+| Date | Task | Notes |
+| --- | --- | --- |
+| yyyy-mm-dd | Clean patch wires | _Isopropyl + cloth. Replace any cracked tips._ |
+| yyyy-mm-dd | Module swap | _Describe what moved where._ |
+
+## References
+- Tangible Waves manual hub: <https://www.tangiblewaves.com/manuals>
+- AE Modular community wiki (module calibration, DIY mods): <https://wiki.aemodular.com/pmwiki.php>
+- Forum troubleshooting megathread: <https://forum.aemodular.com/>
