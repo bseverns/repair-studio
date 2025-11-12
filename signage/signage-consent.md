@@ -1,7 +1,14 @@
 # CONSENT & DATA
 
-- Recording/photography is **opt‑in** per person/artifact.  
-- Request **DELETE NOW** any time — no reasons required.  
-- Redact sensitive info in public docs.
+- Recording/photography is **opt-in per artifact/person**. No silent capture.
+- **Delete Now** requests are honored immediately—no justification needed.
+- Redact sensitive identifiers before anything leaves the room.
+- Capture each consent status on the intake ticket so we can prove it later.
 
-Questions/concerns? Contact the host listed today.
+### Questions or concerns?
+- Consent/Data Steward on-call: **Devon Ortiz — Signal/SMS +1-555-0140**
+- Safety Lead on-call: **Mara Ibarra — Signal/SMS +1-555-0139**
+- Email anytime: **safety@repair.studio** (reaches the maintainer pod)
+- Hosts escalate in Slack via **#repair-studio-escalations**
+
+> Print at A4/Letter, post at the intake station, and update the on-call names if the roster rotates.
