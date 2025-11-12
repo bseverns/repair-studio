@@ -9,9 +9,16 @@ done_definition:
 
 ## Steps
 
-1) Verify opt‑in capture; test **Delete Now** path.
-2) Post hotline/contact and policy signage.
-3) Run a 2‑minute safety drill (locate PPE, first-aid, spill kit).
+1) Verify opt-in capture; test **Delete Now** path exactly as in the consent
+   policy.
+2) Post hotline/contact and policy signage with the current on-call names:
+   - Safety Lead: Mara Ibarra — Signal/SMS +1-555-0139
+   - Consent/Data Steward: Devon Ortiz — Signal/SMS +1-555-0140
+   - Maintainer pod email:
+     [safety@repair.studio](mailto:safety@repair.studio)
+   - Slack escalation (hosts only): #repair-studio-escalations
+3) Run a 2-minute safety drill (locate PPE, first-aid, spill kit, extinguisher)
+   and rehearse who calls emergency services vs. who pings the on-call crew.
 
 ## Evidence
 
