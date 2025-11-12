@@ -12,11 +12,5 @@ front-and-center.**
   wrench.
 - Intake tickets capture consent and scope; we do not skip the form.
 
-## Need a human?
-
-- Safety Lead on-call: **Mara Ibarra — Signal/SMS +1-555-0139**
-- Consent/Data Steward: **Devon Ortiz — Signal/SMS +1-555-0140**
-- Maintainer pod: [safety@repair.studio](mailto:safety@repair.studio)
-- Slack escalation: **#repair-studio-escalations** (hosts ping here)
-
-**Demos in 60s at close — boring wins get applause.**
+**Demos in 60s at close — boring wins get applause.
+Docs or it didn't happen.**

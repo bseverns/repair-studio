@@ -1,8 +1,21 @@
-# Blameless Retro (10 min)
+# Blameless Retro Template
 
-**What conditions produced this outcome?**
+**Date:**
+**Facilitator:**
+**Crew:**
 
-**What is one change to the *system* we will ship by next session?**
+## Conditions that produced this outcome
 
-**Owner:**
-**Due date:**
+- What was true about the system, space, and context?
+
+## System change shipping before the next session
+
+- Specific change:
+- Owner:
+- Due date:
+
+## Evidence we'll watch
+
+- Metric or signal:
+- Where logged (`data/metrics/metrics-dashboard.csv` entry, session notes,
+  etc.):
